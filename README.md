@@ -12,7 +12,7 @@ Installing
 
    <h1>Clone the repository</h1>
 
-git clone https://github.com/username/Login-Signup-Firebase
+git clone https://github.com/moudyash/Login-Signup-Firebase
 
    <h1> Install the necessary packages<h1>
 
@@ -35,4 +35,4 @@ python main.py
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 Authors
 
-    Mohammed Ashour - Initial work 
+Mohammed Ashour 
